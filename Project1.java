@@ -9,7 +9,7 @@ public class Project1 {
 		}
 		System.out.println("Hello");
 		System.out.println("Helloasas");
-		System.out.println("Helloasas");
+		System.out.println("Helloas");
 	}
 
 }
